@@ -4,11 +4,8 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js",
+        "run": "node server.js",
         "seeds": "node seeds/seed.js"
-    },
-    "start:prod": {
-        "command": "node server.js"
     },
     "keywords": [],
     "author": "",
