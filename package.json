@@ -5,7 +5,8 @@
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
-        "seeds": "node seeds/seed.js"
+        "seeds": "node seeds/seed.js",
+        "start:prod": "node dist/main.js"
     },
     "keywords": [],
     "author": "",
