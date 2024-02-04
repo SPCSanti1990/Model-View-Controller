@@ -7,6 +7,9 @@
         "start": "node server.js",
         "seeds": "node seeds/seed.js"
     },
+    "start:prod": {
+        "command": "node server.js"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
