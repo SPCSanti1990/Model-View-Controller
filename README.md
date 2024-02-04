@@ -49,15 +49,14 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 
 ## Screenshot:
-[screenshot](./assets/img/Screenshot%202024-01-01%20173433.png) change to actual screenshot
+[screenshot](./public/img/Screenshot%202024-02-04%20112149.png) change to actual screenshot
 
 ## What I Learned:
-1. 
-2. 
-3. 
+1. How to better manage file structure and file organization.
+2. Depoying server to Heroku.
 
 ## Repository Link:
 [Repository Link 'Click Here'.](https://github.com/SPCSanti1990/Model-View-Controller)
 
 ## Deployed URL
-[Deployed URL 'Click Here'.]()
+[Deployed URL 'Click Here'.](https://technology-blog-mvc14-9fd561c1896c.herokuapp.com/)
