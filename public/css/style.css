@@ -14,7 +14,7 @@ body {
   
   .blogTitle {
     text-decoration: none;
-    color: rgb(82, 121, 82);
+    color: rgb(238, 235, 45);
   }
   
   .blogDesc {
@@ -38,13 +38,14 @@ body {
     font-style: italic;
     font-size: 12px;
     padding: 5px;
-    color: darkkhaki;
+    color: rgb(241, 236, 152);
   }
   
   .blogBoxCont {
-      margin-top: 10px;
+    margin-top: 10px;
     border-style: solid;
     background-color: black;
+    color: white;
   }
   
   .formCont {
