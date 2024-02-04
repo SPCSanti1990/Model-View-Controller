@@ -59,4 +59,4 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 [Repository Link 'Click Here'.](https://github.com/SPCSanti1990/Model-View-Controller)
 
 ## Deployed URL
-[Deployed URL 'Click Here'.](https://technology-blog-mvc14-9fd561c1896c.herokuapp.com/)
+[Deployed URL 'Click Here'.](https://technology-blog-mvc14-01d19b078382.herokuapp.com/)
